@@ -1,6 +1,0 @@
-clear;
-close all;
-clc;
-
-
-
